@@ -1,0 +1,6 @@
+generated_data
+models
+generated_data/
+models/
+predictions/
+predictions
